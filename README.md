@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=무한도전&color=random)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=auto&text=무한도전)
 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
