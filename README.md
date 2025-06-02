@@ -74,7 +74,7 @@
 ---
 
 ## 🗃 전체 프로젝트 이력 보기
-> 📄 전체 프로젝트 이력은 [[전체프로젝트 이력.md]([./전체프로젝트 이력.md](https://github.com/hulbo/hulbo/blob/main/%EC%A0%84%EC%B2%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%A0%A5.md))](https://github.com/hulbo/hulbo/blob/main/%EC%A0%84%EC%B2%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%A0%A5.md)를 참고해 주세요.
+> 📄 전체 프로젝트 이력은 [전체프로젝트 이력.md](https://github.com/hulbo/hulbo/blob/main/%EC%A0%84%EC%B2%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%A0%A5.md)를 참고해 주세요.
 
 ---
 ## 📫 연락처
